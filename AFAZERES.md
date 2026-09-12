@@ -8,13 +8,13 @@ Os itens estão organizados por prioridade, considerando inicialmente **correç�
 
 ## 1. Correções e Estabilidade
 
-### 1.1 — Correção do Login
+### 1.1 — Ajustes de autenticação
 
-* [ ] Investigar e corrigir o problema atual relacionado ao login.
+* [x] Investigar e corrigir o problema atual relacionado ao login.
 * [ ] Garantir que o fluxo de autenticação funcione corretamente em diferentes cenários.
-* [ ] Validar persistência e recuperação da sessão.
+* [x] Validar persistência e recuperação da sessão.
 * [ ] Validar comportamento do token de autenticação.
-* [ ] Garantir tratamento adequado de erros de autenticação no frontend.
+* [x] Garantir tratamento adequado de erros de autenticação no frontend.
 
 ---
 
